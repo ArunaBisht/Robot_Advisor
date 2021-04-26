@@ -28,7 +28,7 @@ Then we created possible list of questions that a user would ask which is also c
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-These are the input given by the user which is called 'slot types'.
+These are the input given by the user which is called 'slot types'. There is also a recording on this same which is showing live demo of this robo. 
 
 ![](snapshots/lamda_initialization.PNG)
 
